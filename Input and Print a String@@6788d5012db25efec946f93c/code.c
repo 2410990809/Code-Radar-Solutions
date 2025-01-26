@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
- char a[100];
- gets(a);
- printf("You entered: %s",a);
+ char str[100];
+ gets(str);
+ printf("You entered: %s",str);
 }
