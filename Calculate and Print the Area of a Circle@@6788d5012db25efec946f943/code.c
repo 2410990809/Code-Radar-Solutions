@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
    float a;
-   scanf("%d",&a);
+   scanf("%f",&a);
    float pie=3.14;
    float area=pie*a*a;
    printf("Area: %.2f",area);
