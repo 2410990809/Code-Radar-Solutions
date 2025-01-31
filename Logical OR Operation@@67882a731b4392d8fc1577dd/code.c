@@ -6,6 +6,6 @@ if(a>0 || b>0){
     printf("True");
 }
 else{
-    prinyf("False");
+    prinf("False");
 }
 }
