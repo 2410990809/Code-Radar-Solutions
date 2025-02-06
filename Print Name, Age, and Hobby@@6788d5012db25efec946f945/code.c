@@ -5,6 +5,6 @@ int main() {
     char str1[20];
     scanf("%s %d %s",&str,&age,&str1);
     printf("Name: %s",str);
-    printf("%d",age);
-    printf("%s",str1);
+    printf("Age: %d",age);
+    printf("Hobby: %s",str1);
 }
